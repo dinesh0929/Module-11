@@ -27,7 +27,14 @@ To write a Python program to search for a given element in a singly linked list 
 
 ## 💻 Program
 Add Code Here
+<img width="322" height="166" alt="image" src="https://github.com/user-attachments/assets/04707df9-6c62-40f0-bf7f-5d82c9aa1507" />
+
 ## Sample Output
+<img width="322" height="166" alt="image" src="https://github.com/user-attachments/assets/6b5dde54-9148-40d7-a641-271bd862f979" />
+
+
 
 ## Result
+Thus,the program is executed successfully
+
 
